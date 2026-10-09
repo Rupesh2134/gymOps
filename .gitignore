@@ -1,0 +1,29 @@
+# Java / Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets and environment files
+.env
+.env.*
+*.local
+application-local.yml
+application-local.properties
+
+# Logs
+*.log
+
+# Build outputs
+/build/
+out/
